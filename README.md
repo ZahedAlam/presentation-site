@@ -1,8 +1,8 @@
-# presentation-site
+# Presentation Site
 A simple website for the project presentation
 
-#Developer
+# Developer
 M Zahed Alam
 
-##Technologies used
+## Technologies used
 HTML and CSS
